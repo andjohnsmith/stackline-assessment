@@ -18,4 +18,4 @@ You will also see any lint errors in the console.
 
 ### `npm run deploy`
 
-Starts a new GitHub Pages deployment. More information on this process can be found in [the Create React App docs](https://recharts.org/en-US/).
+Starts a new GitHub Pages deployment. More information on this process can be found in [the Create React App docs](https://create-react-app.dev/docs/deployment/#github-pages).
